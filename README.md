@@ -1,2 +1,2 @@
-# Veristand Project
-REPO of custom devices and Python API
+# SELICNG
+REPO of custom devices made at intech
